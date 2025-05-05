@@ -7,11 +7,11 @@ As a seasoned technology professional with expertise in data analysis, cybersecu
 
 ## Testimony
 
+"He is intelligent, inquisitive and seeks to gain in-depth knowledge with his determination and hard work."
+
 "He supported the team by playing multiple roles (software developer, scrum master) and collaborated well with the business stakeholders to deliver the business outcomes."
 
 "I have no doubt that he will succeed in all his endeavors. I recommend him as the strongest team member in any company. So, grab him!"
-
-"He is intelligent, inquisitive and seeks to gain in-depth knowledge of with his determination and hard work."
 
 "Syed has strong skills in MySQL Database, NoSQL - MongoDB, JavaScript, Node.Js, D3.js, Ajax, PHP, Python, and data mining methods."
 

@@ -1,0 +1,7 @@
+services:
+  cvless:
+    image: nginx
+    ports:
+      - "4001:80"
+    volumes:
+      - ./_site:/usr/share/nginx/html
