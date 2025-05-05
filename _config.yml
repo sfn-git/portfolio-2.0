@@ -1,0 +1,48 @@
+title: "Syed Fahad Nadeem"
+description: "As a seasoned technology professional with expertise in data analysis, cybersecurity, and software engineering, I help businesses drive growth, improve processes, and enhance security. With a strong foundation in programming languages like Python, Java, JavaScript, and SQL, and experience working with cutting-edge technologies like Docker, Jenkins, Unraid, and cloud platforms, I deliver innovative solutions to complex problems. Holding a Master's degree in Computer Information Systems from Kean University, I bring a strong educational foundation to my work, backed by three years of industry experience and expertise in Agile methodologies, Scrum, Kanban, Jira Align, and more. Let's connect to explore opportunities for innovation and success."
+# baseurl: "syedfahadnadeem.com"
+url: "https://syedfahadnadeem.com"
+
+author:
+  name: Syed Fahad Nadeem
+  email: syedfnadeem323@gmail.com
+  photo: assets/files/sfn_photo.jpg
+
+profile:
+  linkedin: https://www.linkedin.com/in/syedfahadnadeem
+  github: https://github.com/sfn-git
+
+exclude:
+  - demo/
+  - cvless.gemspec
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - Gemfile*
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
+
+theme: cvless
