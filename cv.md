@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: CV
+title: Resume
 ---
 
 New Jersey, USA\\
 [syedfnadeem323@gmail.com](mailto:syedfnadeem323@gmail.com)\\
-[LinkedIn](https://www.linkedin.com/in/syedfahadnadeem/)\\
-[PDF Resume](/assets/files/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/syedfahadnadeem/) | [Github](https://github.com/sfn-git)
 
 # **Professional Experience**
 **Software Engineer II** \\
@@ -54,3 +53,5 @@ Kean University, Office of Research and Sponsored Programs (ORSP) ▪ *May 2018 
 # **Education**
 **Master of Science, Computer Information Systems** ▪ Kean University \\
 **Bachelor of Science, Computer Science** ▪ Kean University
+
+[One Page Resume](/assets/files/resume.pdf)
